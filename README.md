@@ -10,7 +10,7 @@
 
 <h2 id="#Introduction">Introduction</h2>
 
-The premise of this project is to perform memory forensics and analysis using Volatility. The final report will be linked in the [References section](#References). This will be done through **Linux** as the SIFT Workstation already comes with Volatility preinstalled.
+The premise of this project is to perform memory forensics and analysis using Volatility. The final report will be linked in the [References section](#References). This will be done through **Linux** as the SIFT Workstation already comes with Volatility pre-installed.
 
 <h2 id="#Tools-Used">Tools Used</h2>
 
